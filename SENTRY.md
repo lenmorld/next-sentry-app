@@ -1,0 +1,4 @@
+npx @sentry/wizard@latest -i nextjs --saas --org lenmor --project javascript-nextjs
+
+
+SENTRY_AUTH_TOKEN=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
